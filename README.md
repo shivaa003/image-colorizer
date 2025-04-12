@@ -31,9 +31,9 @@ image-colorizer/
 ├── saved/                 # Output images saved here
 │   └── saved_eccv16.jpg
 │   └── saved_siggraph17.jpg
+├── README.md
 ├── demo_release.py         # Using img path
 ├── manual.py               # For manual img
-├── README.md
 └── requirements.txt
 ```
 
